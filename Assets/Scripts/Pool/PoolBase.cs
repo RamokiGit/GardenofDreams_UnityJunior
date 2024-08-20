@@ -24,6 +24,7 @@ namespace Pool
                 return;
             }
             _parentPool = Object.Instantiate(new GameObject());
+            _parentPool.name = "PoolGroup";
             for (int i = 0; i < preloadCount; i++)
             {
                 Return(preloadFunc());

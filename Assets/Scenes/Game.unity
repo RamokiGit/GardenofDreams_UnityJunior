@@ -3014,7 +3014,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -85.109985, y: -19.33}
+  m_AnchoredPosition: {x: -85.11011, y: -19.329956}
   m_SizeDelta: {x: 1920, y: 1080}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &1845156278
@@ -3301,7 +3301,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _enemyPrefab: {fileID: 6757690542659824831, guid: 7085246c6b1995743a22262fc541cade, type: 3}
-  _preloadCountPool: 3
+  _preloadCountPool: 5
   _spawnPoints:
   - {fileID: 1865467394}
   - {fileID: 1227787599}
